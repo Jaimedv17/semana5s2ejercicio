@@ -13,7 +13,7 @@ body{
 
 .titulo{
     text-align: center;
-    margin-top: 3rem;
+    margin-top: 10rem;
 }
 
 .seccion{
@@ -23,7 +23,7 @@ body{
     grid-template-columns:repeat(4,1fr);
     grid-template-rows: 250px ;
     grid-gap: 20px;
-    margin-top: 20rem;
+    margin-top: 10rem;
 }
 article{
     border: 1px solid orange;
